@@ -1,0 +1,41 @@
+Learn how to build an e-commerce website using Django and Vue from scratch. Django uses Python Vue uses JavaScript.
+
+Django Rest Framework is used to build the API and backend.
+The frontend is a separate Vue project. To handle the payments, we implement Stripe.
+
+✏️ The course was developed by CodeWithStein. Check out his channel: https://www.youtube.com/c/CodeWithStein
+🐦 CodeWithStein on twitter: https://twitter.com/codewithstein
+
+💻 Code - Django: https://github.com/SteinOveHelset/dja...
+💻 Code - Vue: https://github.com/SteinOveHelset/dja...
+
+🔗 Live demo: https://djackets.codewithstein.com/
+🔗 The files and commands I use on the server can be found in the repository here: https://github.com/SteinOveHelset/dja...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Intro
+⌨️ (0:00:55) Demo
+⌨️ (0:02:41) Install and setup (Django)
+⌨️ (0:11:39) Install and setup (Vue)
+⌨️ (0:15:49) Include Font Awesome
+⌨️ (0:16:28) Set up the base template
+⌨️ (0:22:55) Create django app and models for products
+⌨️ (0:33:19) Create serializer and views for the products
+⌨️ (0:39:50) Create simple front page (latest products)
+⌨️ (0:45:40) View a product 
+⌨️ (0:55:57) Sette opp Vuex / State
+⌨️ (0:57:27) Make it possible to add to cart
+⌨️ (1:05:31) Implement a loading bar
+⌨️ (1:08:59) Set document title (All pages)
+⌨️ (1:09:58) Make it possible to view a category
+⌨️ (1:21:07) Add search functionality
+⌨️ (1:28:07) View cart
+⌨️ (1:34:34) Change contents of cart
+⌨️ (1:38:14) Make it possible to sign up
+⌨️ (1:43:34) Make it possible to log in
+⌨️ (1:48:38) Create a simple my account page
+⌨️ (1:53:24) Proceed to checkout (Authentication)
+⌨️ (1:58:59) Create a simple success page
+⌨️ (2:14:29) Show my orders on the my account page
+⌨️ (2:18:41) Deploy Django 
+⌨️ (2:40:39) Deploy Vue (Generate files locally, Send files to server, Set up nginx virtual host)
