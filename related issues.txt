@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=FutMSTyDr3o - Django and Ajax - 
+Deleting Multiple ITems using checkbox select in Django
+
+
+https://www.youtube.com/watch?v=f0hdXr2MOEA - Multiple User Types for SMS
+
+https://www.youtube.com/watch?v=V3zRZ6XRols - Continuation of multiple user types

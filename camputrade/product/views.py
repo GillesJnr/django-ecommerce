@@ -1,4 +1,5 @@
-from django.shortcuts import Http404
+# from django.shortcuts import Http404
+from django.http import Http404
 from rest_framework.serializers import Serializer
 from .serializers import ProductSerializer
 from rest_framework.views import APIView
@@ -23,7 +24,7 @@ class ProductDetail(APIView):
             raise Http404
 
     
-    def get(self,request, ,category_slug, product_slug, format=None):
+    def get(self,request, category_slug, product_slug, format=None):
         product = self.get_object(category_slug, product_slug)
         serializer = ProductSerializer(product)
         return Response(serializer.data)
